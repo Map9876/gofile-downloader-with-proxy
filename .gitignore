@@ -1,0 +1,27 @@
+# Downloaded files
+5tkZZi/
+Downloads/
+
+# Credentials
+PYPI_CREDENTIALS.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Logs
+*.log
+unzip.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
