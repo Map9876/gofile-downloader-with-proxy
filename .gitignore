@@ -1,0 +1,18 @@
+# Ignore all root-level directories by default
+/*/
+
+# But keep project directories
+!gofile_dl/
+!.github/
+
+# Sensitive credentials
+PYPI_CREDENTIALS.md
+
+# Build artifacts & cache
+dist/
+*.egg-info/
+__pycache__/
+*.pyc
+
+# Logs
+*.log
